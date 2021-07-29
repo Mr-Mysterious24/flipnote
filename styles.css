@@ -8,16 +8,16 @@ img {
   display: block;
 }
 footer {
-  padding: 1%
+  padding: 3%;
 }
 
 header nav {
   background-color: #000;
-  margin-bottom: 1%;
+  margin-bottom: 3%;
 }
 header nav .menu {
   margin: 0;
-  padding: 1%
+  padding: 1%;
 }
 header nav .menu {
   display: inline;
