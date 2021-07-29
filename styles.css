@@ -12,10 +12,14 @@ footer {
 }
 
 header nav {
-  background-color: #;
+  background-color: #000;
   margin-bottom: 1%;
 }
 header nav .menu {
   margin: 0;
   padding: 1%
+}
+header nav .menu {
+  display: inline;
+  margin-right: lem;
 }
