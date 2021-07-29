@@ -2,5 +2,20 @@ body {
   color: #444;
 }
 a {
-  text-
+  text-decoration: none;
+}
+img {
+  display: block;
+}
+footer {
+  padding: 1%
+}
+
+header nav {
+  background-color: #;
+  margin-bottom: 1%;
+}
+header nav .menu {
+  margin: 0;
+  padding: 1%
 }
