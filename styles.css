@@ -10,8 +10,7 @@ img {
 footer {
   padding: 3%;
 }
-
- /* header { border:4px solid yellow; } */
+/* header { border:4px solid yellow; } */
 header nav {
   background-color: #000;
   margin-bottom: 1%;
@@ -31,8 +30,6 @@ header nav .menu a {
 header nav .menu a:hover {
   color: yellow;
 }
-
-
 .hero {
   text-align: center;
   padding: 5% 0; /* top/bottom 5% right/left 0 */
@@ -85,3 +82,12 @@ https://gridbyexample.com/
   grid-template-columns: repeat(3, 1fr);
 }
  */
+(edited)
+white_check_mark
+eyes
+raised_hands
+
+
+
+
+
