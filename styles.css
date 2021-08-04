@@ -1,5 +1,5 @@
 body {
-  color: #444;
+  color: #BE8ABF;
 }
 a {
   text-decoration: none;
@@ -35,7 +35,7 @@ header nav .menu a:hover {
   padding: 5% 0; /* top/bottom 5% right/left 0 */
   color: white;
   height: 100vh;
-  background-image: 
+  background-image:url("https://cdn141.picsart.com/363716204068201.jpg?type=webp&to=min&r=640");
   background-repeat: no-repeat;
   background-size: cover;
   background-positon: center;
