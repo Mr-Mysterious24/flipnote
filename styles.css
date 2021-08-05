@@ -1,5 +1,5 @@
 :root {
-  --wrapper-height: 87vh;
+  --image-max-height: 87vh;
   --image-max-width: 100px;
   --image-margin: 3rem;
 }
