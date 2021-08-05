@@ -1,3 +1,8 @@
+:root {
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+}
 body {
   color: #000;
 }
