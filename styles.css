@@ -61,13 +61,13 @@ header nav .menu a:hover {
 A Complete Guide to Flexbox
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/     
  */
-.deckofCards {
+.flexbox-parent {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 .deckofCards .cardDIV {
-  width: 30%;
+  width: 100%;
   margin-bottom: 1em;
 }
 /*  Grid */
