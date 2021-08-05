@@ -67,7 +67,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   flex-wrap: wrap;
   justify-content: space-between;
 }
-.deckofCards .cardDIV {
+ .flexbox-child {
   width: 30%;
   margin-bottom: 1em;
 }
